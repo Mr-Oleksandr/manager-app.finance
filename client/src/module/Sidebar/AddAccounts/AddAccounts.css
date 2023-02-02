@@ -1,0 +1,13 @@
+.addAccounts{
+    display: flex;
+    justify-content: space-between;
+}
+
+.addAccounts .icon-plus{
+}
+
+.addAccounts .group-icons{
+    display: flex;
+    margin-right: 10px;
+    gap: 10px;
+}
